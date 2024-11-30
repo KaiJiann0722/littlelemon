@@ -1,0 +1,7 @@
+--Super user:
+    username = admin
+    password = admin@123!
+--staff:
+    username = staff1
+    password = Abc@123!
+    token: 8aadd84cd396e2d98c071f1bb3db8f2f2c83bdeb
